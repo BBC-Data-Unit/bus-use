@@ -2,7 +2,7 @@
 
 ![](https://raw.githubusercontent.com/BBC-Data-Unit/bus-use/master/Bus%20use%20declines%20across%20England.png)
 
-In October we reported on a fall in the numbers of bus journeys made in England. 
+In October we [reported on a fall in the numbers of bus journeys made in England](http://www.bbc.co.uk/news/uk-england-37691160). Get the data below. 
 
 ## Data
 
