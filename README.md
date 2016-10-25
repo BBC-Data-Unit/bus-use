@@ -7,6 +7,7 @@ In October we reported on a fall in the numbers of bus journeys made in England.
 ## Data
 
 * [Journeys on buses per head by local authority. Source: DfT](https://docs.google.com/spreadsheets/d/1sieTbQ7PEFLJZPBXNV69Hx8lYpCiwBl-6bT2b_z799k/edit#gid=0) (Google Spreadsheet)
+* CSV: [Journeys on buses per head by local authority. Source: DfT](https://github.com/BBC-Data-Unit/bus-use/blob/master/Journeys-on-buses-per-head-by-local-authority-Source-DfT.csv)
 
 ## Visualisation
 
