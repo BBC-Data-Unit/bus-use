@@ -1,0 +1,99 @@
+LA Code,Region,Local authority,2009-10,2010-11,2011-12,2012-13,2013-14,2014-15,2015-16,% change 2014-15 to 2015-16
+E12000001,North East,,80.4,79.5,76.5,73.1,72.1,70.6,68.6,-2.83%
+E06000005,North East,Darlington,78.7,74.9,66.1,63.1,62.4,61.2,59.2,-3.27%
+E06000047,North East,Durham,51.9,50.8,48.2,44.9,45,44,42.6,-3.18%
+E06000001,North East,Hartlepool,58.9,57.3,51.6,49.7,49.3,50.4,51.3,1.79%
+E06000002,North East,Middlesbrough,74.3,75.5,70.7,65.4,64.9,60.2,59.7,-0.83%
+E06000048,North East,Northumberland,35.7,35.8,33.5,31.5,31.6,30.6,29.5,-3.59%
+E06000003,North East,Redcar and Cleveland,41.8,40.9,34.7,32,32.2,30.5,29,-4.92%
+E06000004,North East,Stockton-on-Tees,53.9,52.6,49.5,47.6,45.4,45,43.9,-2.44%
+E11000004,North East,Tyne and Wear ITA,118.7,117.5,115.6,111.5,109.4,107.4,104.1,-3.07%
+E12000002,North West,,69.5,68.3,65.3,64.2,64,62.7,60.5,-3.51%
+E06000008,North West,Blackburn with Darwen,33.4,33.4,32.3,27.9,28.4,27.5,27.1,-1.45%
+E06000009,North West,Blackpool,89.6,82.7,82.2,78.7,78.4,78.7,77.7,-1.27%
+E06000049,North West,Cheshire East,14.8,15.1,14.4,16.5,15.4,13.6,14.3,5.15%
+E06000050,North West,Cheshire West and Chester,33.8,35.1,32.4,30.1,33.6,33.6,33.4,-0.60%
+E10000006,North West,Cumbria,35.4,36.8,35.5,34.3,33.5,32.1,30.5,-4.98%
+E06000006,North West,Halton,48.3,48.7,45.8,43,42,42.1,44,4.51%
+E10000017,North West,Lancashire,52.6,51.1,48.7,45.2,43.7,42.3,39.9,-5.67%
+E06000007,North West,Warrington,54,55.2,52,48.2,43.4,38.5,33.4,-13.25%
+E11000001,North West,Greater Manchester ITA,83.5,81.4,76.7,77.2,79.6,77.9,74.3,-4.62%
+E11000002,North West,Merseyside ITA,98.5,97.2,94.9,93.7,89.4,88.7,87.5,-1.35%
+E12000003,Yorkshire and The Humber,,69.8,68.1,67.6,63.1,64.7,63.3,61.2,-3.32%
+E06000011,Yorkshire and The Humber,East Riding of Yorkshire,22.2,21.1,22.1,22.4,21,21.7,18.1,-16.59%
+E06000010,Yorkshire and The Humber,"Kingston upon Hull, City of",101.9,94.7,94.5,91.1,93.2,89.1,88.7,-0.45%
+E06000012,Yorkshire and The Humber,North East Lincolnshire,51.9,49.9,50.7,48.8,49.1,48.2,47.4,-1.66%
+E06000013,Yorkshire and The Humber,North Lincolnshire,27.2,26.9,27.5,27.4,27.7,25.9,24.1,-6.95%
+E10000023,Yorkshire and The Humber,North Yorkshire,28.5,29,28.9,27.3,26.4,26.4,22.2,-15.91%
+E06000014,Yorkshire and The Humber,York,84.7,79.9,80.7,76.3,77.2,79.1,81.7,3.29%
+E11000003,Yorkshire and The Humber,South Yorkshire ITA,87.4,84.5,83.3,78.7,79.8,79.4,76.6,-3.53%
+E11000006,Yorkshire and The Humber,West Yorkshire ITA,77,76.2,75.3,68.8,71.9,69.2,67.3,-2.75%
+E12000004,East Midlands,,48.7,47.6,46.9,45.3,44.7,43.7,42.3,-3.20%
+E06000015,East Midlands,Derby,75,73.9,72.5,69.4,71.5,66.4,65.4,-1.51%
+E10000007,East Midlands,Derbyshire,39.4,39.5,39,36.9,37.3,36.9,35.7,-3.25%
+E06000016,East Midlands,Leicester,106,95.1,86.1,82.3,81,79,76.3,-3.42%
+E10000018,East Midlands,Leicestershire,26.9,24,24.5,23,20.8,21.8,20.7,-5.05%
+E10000019,East Midlands,Lincolnshire,23.1,23.7,22.9,21.7,22.2,21.8,20.5,-5.96%
+E10000021,East Midlands,Northamptonshire,28.9,27.8,28.5,29.3,27.5,25.5,25.6,0.39%
+E06000018,East Midlands,Nottingham,162.8,162.2,163.3,157.7,156.8,156.5,149.2,-4.66%
+E10000024,East Midlands,Nottinghamshire,43.8,44.3,43.8,42.5,41.5,40.5,39.4,-2.72%
+E06000017,East Midlands,Rutland,9.1,5.9,7.6,3.1,9.7,1.6,1.8,12.50%
+E12000005,West Midlands,,72.3,68.3,64.9,63,63.7,61.9,59.7,-3.55%
+E06000019,West Midlands,"Herefordshire, County of",17.2,17.8,16.9,17.2,16.9,15,13.2,-12.00%
+E06000051,West Midlands,Shropshire,19.9,20.5,18.8,19.9,17.8,16.2,15.9,-1.85%
+E10000028,West Midlands,Staffordshire,26.2,25.3,24.2,23.5,23.7,24.4,24.1,-1.23%
+E06000021,West Midlands,Stoke-on-Trent,63.6,57.4,56.3,50.9,53.5,48,44.7,-6.87%
+E06000020,West Midlands,Telford and Wrekin,35.1,35.5,33.7,31.2,30.1,28.8,26.4,-8.33%
+E10000031,West Midlands,Warwickshire,31.3,32.4,32.2,31.2,35,34.1,33.2,-2.64%
+E10000034,West Midlands,Worcestershire,28.6,30.8,29,27.3,27.3,25.4,23.1,-9.06%
+E11000005,West Midlands,West Midlands ITA,116.8,108.5,102.6,99.7,100.3,97.7,94.5,-3.28%
+E12000006,East of England,,32.8,32.7,32.3,31.4,31.8,30.9,29.9,-3.24%
+E06000055,East of England,Bedford,47.6,45.8,42.7,39.9,42.6,37.1,35.7,-3.77%
+E10000003,East of England,Cambridgeshire,37.5,36.3,34.9,34.9,34.9,34.3,32.4,-5.54%
+E06000056,East of England,Central Bedfordshire,12.1,15.7,15.3,12.3,12.9,12.3,12,-2.44%
+E10000012,East of England,Essex,33.8,32.9,33.6,32.6,32.3,31.7,30.3,-4.42%
+E10000015,East of England,Hertfordshire,27.9,28,28.5,27.2,28.7,27.3,26.9,-1.47%
+E06000032,East of England,Luton,47,46.2,40.7,46.4,41,38.2,39.1,2.36%
+E10000020,East of England,Norfolk,32.5,34.7,34.6,33.1,33.8,32.9,31.5,-4.26%
+E06000031,East of England,Peterborough,61.7,59.1,57.5,56.5,58.4,58.2,54.9,-5.67%
+E06000033,East of England,Southend-on-Sea,51.4,49.4,47,44.4,43.6,43.5,40.8,-6.21%
+E10000029,East of England,Suffolk,24.9,24.4,23.9,22.8,23.7,23.8,23.8,0.00%
+E06000034,East of England,Thurrock,24.5,25.6,26,25.1,27.3,28.4,27.3,-3.87%
+E12000007,London,,281.8,281.5,283.2,278.1,280.6,276.8,264.3,-4.52%
+E12000008,South East,,39.1,39.4,39.9,39.6,40.4,40,39.5,-1.25%
+E06000036,South East,Bracknell Forest,18.5,18.2,17,14.8,16.1,19.1,15.4,-19.37%
+E06000043,South East,Brighton and Hove,154,157.2,158.6,164,164.7,158,159.5,0.95%
+E10000002,South East,Buckinghamshire,22.1,22.8,22.2,20.9,19,20,20.3,1.50%
+E10000011,South East,East Sussex,36.3,39.5,39.4,40.1,42.1,40.5,37.8,-6.67%
+E10000014,South East,Hampshire,23.2,23.7,24.2,23.7,24,23.8,22.9,-3.78%
+E06000046,South East,Isle of Wight,60.5,51.9,52.2,54.1,57.1,58.1,57.9,-0.34%
+E10000016,South East,Kent,40.2,40.2,40.1,40.7,41.6,38.2,36.5,-4.45%
+E06000035,South East,Medway,35.6,34.3,35.2,33.6,32.9,32.5,31.9,-1.85%
+E06000042,South East,Milton Keynes,33.5,36.8,35.4,35.6,37.5,37.3,38.3,2.68%
+E10000025,South East,Oxfordshire,55.7,55.9,59.9,61.7,64.9,63.3,62.3,-1.58%
+E06000044,South East,Portsmouth,52.6,53.3,53,49,49.8,50.9,52.6,3.34%
+E06000038,South East,Reading,108.3,104.1,102.7,102.7,111.3,119.2,126.2,5.87%
+E06000039,South East,Slough,34.9,35.4,36.9,33.8,33.7,35.8,33.8,-5.59%
+E06000045,South East,Southampton,81,77.2,77.2,74.3,74.3,81.9,79.2,-3.30%
+E10000030,South East,Surrey,25,25.8,25.4,24,23.6,23.8,23,-3.36%
+E06000037,South East,West Berkshire,15.1,15.7,14.5,15.2,19.1,20.5,21.9,6.83%
+E10000032,South East,West Sussex,30.8,31.5,32.9,32,32.3,33,33.3,0.91%
+E06000040,South East,Windsor and Maidenhead,15.9,14.3,15.8,11.7,11.4,12.6,12.6,0.00%
+E06000041,South East,Wokingham,13.3,13.6,13.5,13.4,13.5,14,14.9,6.43%
+E12000009,South West,,38.7,39.2,39.5,37.9,39.1,39.8,39.7,-0.25%
+E06000022,South West,Bath and North East Somerset,65.5,66.2,65.9,57.7,66.8,66.9,69.2,3.44%
+E06000028,South West,Bournemouth,89.5,83.6,95.7,94.2,96.3,96.5,91.6,-5.08%
+E06000023,South West,"Bristol, City of",67.1,67.9,67.3,63.7,68.2,73.8,79.7,7.99%
+E06000052,South West,Cornwall,19.7,20.2,21.1,18.2,18.4,18.7,18.4,-1.60%
+E10000008,South West,Devon,34.5,36,35.9,36.2,37.1,37.5,34.1,-9.07%
+E10000009,South West,Dorset,25.2,27,25.8,23.7,24.5,23.9,23.8,-0.42%
+E10000013,South West,Gloucestershire,36.1,35.7,34.3,34.1,34.3,32,32.9,2.81%
+E06000024,South West,North Somerset,21.8,22.6,23.7,24,24.4,27.4,29.1,6.20%
+E06000026,South West,Plymouth,79.4,82,80.2,77.5,78.9,80.7,74.4,-7.81%
+E06000029,South West,Poole,53.2,57.2,63.7,63.8,69.2,70.5,69.5,-1.42%
+E10000027,South West,Somerset,18.5,17.7,16.2,15.2,16.1,16.4,17.7,7.93%
+E06000025,South West,South Gloucestershire,27.9,26.3,26.8,24.4,25.6,29.5,32.6,10.51%
+E06000030,South West,Swindon,59.4,60.4,59.5,56.8,54.2,54.1,54.2,0.18%
+E06000027,South West,Torbay,58.2,58.3,63.3,60.6,58.9,61.2,58.9,-3.76%
+E06000054,South West,Wiltshire,22.2,23,23.1,22.5,21.3,20.5,20.2,-1.46%
+,England,,88.8,88.2,87.8,85.8,86.7,85.6,82.7,-3.39%
